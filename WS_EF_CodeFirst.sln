@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WS_EF_CodeFirst", "WS_EF_CodeFirst\WS_EF_CodeFirst.csproj", "{0AB5CDA5-F92E-49F9-8566-97E097CB1E87}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataLayerLib", "DataLayerLib\DataLayerLib.csproj", "{187BED4E-D187-48FF-8119-AF4ED428BEB6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0AB5CDA5-F92E-49F9-8566-97E097CB1E87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0AB5CDA5-F92E-49F9-8566-97E097CB1E87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0AB5CDA5-F92E-49F9-8566-97E097CB1E87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0AB5CDA5-F92E-49F9-8566-97E097CB1E87}.Release|Any CPU.Build.0 = Release|Any CPU
+		{187BED4E-D187-48FF-8119-AF4ED428BEB6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{187BED4E-D187-48FF-8119-AF4ED428BEB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{187BED4E-D187-48FF-8119-AF4ED428BEB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{187BED4E-D187-48FF-8119-AF4ED428BEB6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3F62C2AE-AB56-4BFF-975B-8122259E4681}
+	EndGlobalSection
+EndGlobal
